@@ -6,7 +6,7 @@
     
   </head>
   <body>
-    <h1>Poems</h1>
+    <h1>Henry Kirwan Bohan</h1>
  <a href="/Page1.html">
  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/TalusConesIsfjorden.jpg" alt=Masswasting width="1700" height="812">
 </a>
