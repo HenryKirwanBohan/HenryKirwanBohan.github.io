@@ -8,7 +8,7 @@
   <body>
     <h1>Henry Kirwan Bohan</h1>
  <a href="/Page1.html">
- <img src="https://i1.rgstatic.net/ii/profile.image/1082113503834115-1635007372161_Q512/Henry-Bohan.jpg" alt=Masswasting width="1700" height="812">
+ <img src="https://i1.rgstatic.net/ii/profile.image/1082113503834115-1635007372161_Q512/Henry-Bohan.jpg" alt=Masswasting width="600" height="500">
 </a>
 
 
