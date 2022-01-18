@@ -3,7 +3,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=10.0">
     
-    <link href="/style.css" rel="stylesheet" type="Helvetica" media="all">
+    
   </head>
   <body>
     <h1>Poems</h1>
